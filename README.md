@@ -16,7 +16,8 @@ response = rss_parser.post()
 # Print the response
 print(response)
 
-# Code Analysis
+
+## Code Analysis
 
 ## Main Functionalities
 - Parses an RSS feed by fetching the feed URL from the request data.
